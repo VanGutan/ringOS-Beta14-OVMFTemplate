@@ -1,1 +1,1 @@
-# ringOS-Beta14-OVMFTemplate
+ringOS-Beta14-OVMFTemplate
